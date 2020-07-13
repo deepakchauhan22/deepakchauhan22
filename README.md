@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Deepak. 
 
-<img src="https://miro.medium.com/max/680/0*gqO3slLmGb4mUeje.gif" alt="avatar"/>
+<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "50%" alt="avatar"/>
 
 ## I'm a Full Stack Developer 

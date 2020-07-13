@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 * Saas Based E-learning Application
 ```
    **Find More About Me**
-
-<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/linkedin.svg" width = "4%" alt="avatar"/>
-
-  
+   
+  [
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/linkedin.svg" width = "4%" alt="avatar"/>](https://www.linkedin.com/in/deepakchauhan22/)

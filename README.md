@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ## A Full Stack Developer at Infosys.
    **Current Projects**
 ```bash
-Covid-19 Tracker
+* Covid-19 Tracker
+* Saas Based E-learning Application
 ```
-```bash
-Saas Based E-learning Application
-```
+

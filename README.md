@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **deepakchauhan22/deepakchauhan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Deepak. 
+
+<img src="https://miro.medium.com/max/680/0*gqO3slLmGb4mUeje.gif" alt="avatar"/>
+
+## I'm a Full Stack Developer 

@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "40%" alt="avatar"/>
 
 ## A Full Stack Developer at Infosys.
+   **Current Projects**
+```bash
+Covid-19 Tracker
+```
+```bash
+Saas Based E-learning Application
+```

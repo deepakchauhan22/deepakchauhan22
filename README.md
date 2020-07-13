@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Deepak. 
 
-<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "50%" alt="avatar"/>
+<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "40%" alt="avatar"/>
 
 ## A Full Stack Developer at Infosys.

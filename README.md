@@ -32,4 +32,4 @@ Here are some ideas to get you started:
  
    **Read My Articles On**
    
-   [<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/medium.svg" width = "4%" alt="avatar"/>](https://www.linkedin.com/in/deepakchauhan22/) &nbsp;
+   [<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/medium.svg" width = "4%" alt="avatar"/>](https://medium.com/@dee22) &nbsp;

@@ -24,14 +24,7 @@ Here are some ideas to get you started:
 * Covid-19 Tracker
 * Saas Based E-learning Application
 ```
-   **Skills**
-```bash
-* UI/UX
-* React Js
-* ASP .Net
-* Python
-* C#
-```
+
    **Find More About Me**
    
   [

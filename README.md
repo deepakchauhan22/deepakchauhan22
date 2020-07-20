@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "30%" alt="avatar"/>
 
-## A Full Stack Developer || An Engineer with an Eye for Design.
+## A Full Stack Developer at Infosys.
    **Current Projects**
 ```bash
 * Covid-19 Tracker

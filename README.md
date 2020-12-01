@@ -27,10 +27,10 @@ Here are some ideas to get you started:
  **Skills**
    ```bash
 * UI/UX
-* React
-* ASP.Net 
-* C#
-* Python
+* JavaScript
+* React/Angular/Express
+* MySQL/MongoDB
+* Python - Django
 ```
 
    **Find More About Me**

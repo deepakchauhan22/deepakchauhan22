@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ## A Full Stack Developer at Infosys.
 [Covidtracker](https://www.covidtrak.in/) &nbsp;
+
    **Current Projects**
 ```bash
 * Covid-19 Tracker 

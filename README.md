@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 # Hi, I'm Deepak. 
 
 <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "30%" alt="avatar"/>
-
+[Covidtracker](https://www.covidtrak.in/)
 ## A Full Stack Developer at Infosys.
    **Current Projects**
 ```bash
-* Covid-19 Tracker [Covidtracker](http://google.com)
+* Covid-19 Tracker 
 * Saas Based E-learning Application
 ```
  **Skills**

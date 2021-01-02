@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 * React/Angular/Express
 * MySQL/MongoDB
 * Python - Django
+* Git - Agile
+* Docker - Aws S3, EC2
 ```
 
    **Find More About Me**

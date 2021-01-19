@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 **Side Projects**
 ```bash
 * Covid-19 Tracker 
-  [
- <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/linkedin.svg" width = "4%" alt="avatar"/>](https://www.linkedin.com/in/deepakchauhan22/) &nbsp; 
 ```
+ [
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/linkedin.svg" width = "4%" alt="avatar"/>](https://www.linkedin.com/in/deepakchauhan22/) &nbsp; 
+ 
    **Find More About Me**
    
   [

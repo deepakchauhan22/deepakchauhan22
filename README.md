@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 [Covidtracker](https://www.covidtrak.in/) &nbsp;
 
    **Current Projects**
-```bash
-* Covid-19 Tracker 
+```bash 
 * Saas Based E-learning Application
 ```
  **Skills**
@@ -36,7 +35,11 @@ Here are some ideas to get you started:
 * Git - Agile
 * Docker - Aws S3, EC2
 ```
+**Side Projects**
+```bash
+* Covid-19 Tracker 
 
+```
    **Find More About Me**
    
   [

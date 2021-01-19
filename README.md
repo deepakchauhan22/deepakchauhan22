@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  
 ### 2. News App 
  [
- <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/newslap.png" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp;  [<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/newsmob.png" width = "20%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/newslap.png" width = "60%" alt="avatar"/>] &nbsp;  [<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/newsmob.png" width = "20%" alt="avatar"/>] &nbsp; 
  
 ### 3. Weather App 
  [
@@ -52,7 +52,11 @@ Here are some ideas to get you started:
   
 ### 4. Youtube Clone 
  [
- <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/youtube.png" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/youtube.png" width = "60%" alt="avatar"/>]
+ 
+ ### 5. Nasa Gallery 
+ [
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/nasa.png" width = "60%" alt="avatar"/>] 
   
    **Find More About Me**
    

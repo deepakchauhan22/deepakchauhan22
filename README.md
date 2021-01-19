@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Deepak. 
 
-<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/covidmain.png" width = "30%" alt="avatar"/>
+<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "30%" alt="avatar"/>
 
 ## A Full Stack Developer at Infosys.
 [Covidtracker](https://www.covidtrak.in/) &nbsp;
@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 **Side Projects**
 
 ### Covid-19 Tracker 
-
  [
- <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/linkedin.svg" width = "4%" alt="avatar"/>](https://www.linkedin.com/in/deepakchauhan22/) &nbsp; 
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/covidmain.png" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
  
    **Find More About Me**
    

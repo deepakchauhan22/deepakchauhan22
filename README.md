@@ -58,6 +58,14 @@ Here are some ideas to get you started:
  
  <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/nasa.png" width = "60%" alt="avatar"/>
   
+  **Freelance Projects**
+ ### 1. Fitness Club Website 
+ 
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/fitnessmain.png" width = "60%" alt="avatar"/>
+ 
+ ### 2. Real Estate Website 
+ 
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/realestate.png" width = "60%" alt="avatar"/>
    **Find More About Me**
    
   [

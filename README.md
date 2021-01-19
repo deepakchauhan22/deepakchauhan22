@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Deepak. 
 
-<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "30%" alt="avatar"/>
+<img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "25%" alt="avatar"/>
 
 ## A Full Stack Developer at Infosys.
-[Covidtracker](https://www.covidtrak.in/) &nbsp;
-
    **Current Projects**
 ```bash 
 * Saas Based E-learning Application

@@ -37,10 +37,14 @@ Here are some ideas to get you started:
 ```
 **Side Projects**
 
-### Covid-19 Tracker 
+### 1. Covid-19 Tracker 
  [
  <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/covidmain.png" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
  
+### 2. News App 
+ [
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/newslap.png" width = "80%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
+  
    **Find More About Me**
    
   [

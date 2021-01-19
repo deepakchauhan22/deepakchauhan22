@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 * Docker - Aws S3, EC2
 ```
 **Side Projects**
-```bash
-* Covid-19 Tracker 
-```
+
+# Covid-19 Tracker 
+
  [
  <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/linkedin.svg" width = "4%" alt="avatar"/>](https://www.linkedin.com/in/deepakchauhan22/) &nbsp; 
  

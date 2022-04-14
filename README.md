@@ -25,19 +25,19 @@ Here are some ideas to get you started:
 ```
  **Skills**
    ```bash
-* UI/UX
-* JavaScript
-* React/Angular/Express
-* MySQL/MongoDB
-* Python - Django
+* JavaScript/TypeScript
+* React/Angular
+* Redux-Saga
+* MaterialUI -sass
+* Python
 * Git - Agile
-* Docker - Aws S3, EC2
+* Aws S3
 ```
 **Side Projects**
 
 ### 1. Covid-19 Tracker (live)
  [
- <img src="https://deepakchauhan22.github.io/covidtrackr/#/" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
+ <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/covidmain.png" width = "60%" alt="avatar"/>](https://deepakchauhan22.github.io/covidtrackr/#/) &nbsp; 
  
 ### 2. News App 
  

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "25%" alt="avatar"/>
 
-## A Full Stack Developer at Infosys.
+## A Software Engineer (UI) at GlobalLogic .
    **Current Projects**
 ```bash 
 * Saas Based E-learning Application
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 1. Covid-19 Tracker (live)
  [
- <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/covidmain.png" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
+ <img src="https://deepakchauhan22.github.io/covidtrackr/#/" width = "60%" alt="avatar"/>](http://covidtrak.in/) &nbsp; 
  
 ### 2. News App 
  

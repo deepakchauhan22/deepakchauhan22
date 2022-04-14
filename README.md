@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "25%" alt="avatar"/>
 
 ## A Software Engineer (UI) at GlobalLogic .
-   **Current Projects**
+   **Previous Experience**
 ```bash 
-* Saas Based E-learning Application
+* Infosys ltd - React Developer (2 yrs)
 ```
  **Skills**
    ```bash

@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img src="https://deepakchauhan22.github.io/deepakchauhan22/img/githubport.svg" width = "25%" alt="avatar"/>
 
-## A Software Engineer (UI) at GlobalLogic .
+## A Software Engineer (UI) at GlobalLogic (3.5 YOE).
    **Previous Experience**
 ```bash 
 * Infosys ltd - React Developer (2 yrs)
@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 * JavaScript/TypeScript
 * React
 * Redux-Saga
+* ContextAPI
 * MaterialUI -sass
-* Python
 * Git - Agile
 * Aws S3
 ```

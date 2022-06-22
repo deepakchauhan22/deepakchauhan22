@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  **Skills**
    ```bash
 * JavaScript/TypeScript
-* React/Angular
+* React
 * Redux-Saga
 * MaterialUI -sass
 * Python
